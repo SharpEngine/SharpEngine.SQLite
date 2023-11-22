@@ -19,7 +19,7 @@ public class SQLiteDataTable<T> : IDataTable
     /// <exception cref="NotImplementedException">If use not implement type</exception>
     public SQLiteDataTable(string dbFile, string version = "3")
     {
-        Objects = new List<dynamic>();
+        Objects = [];
 
         var connection = new SQLiteConnection(
             $"Data Source={dbFile};Version={version};New=True;Compress=True;"
