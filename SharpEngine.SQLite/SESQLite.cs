@@ -5,7 +5,7 @@ namespace SharpEngine.SQLite;
 /// <summary>
 /// Static class with extensions and add version functions
 /// </summary>
-public class SESQLite
+public static class SESQLite
 {
     /// <summary>
     /// Add versions to DebugManager
