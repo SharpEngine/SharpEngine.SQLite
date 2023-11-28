@@ -7,6 +7,10 @@
 [#] Bug Fixes<br>
 [.] Others
 
+### V 1.2.0 - 28/11/2023
+[.] SharpEngine.Core : 1.7.2<br/>
+[.] Refactor with SonarCloud
+
 ### V 1.1.0 - 22/11/2023
 [.] Update SharpEngine.Core to 1.6.0<br/>
 [.] Net 8
