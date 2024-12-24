@@ -25,7 +25,7 @@
     <None Include="../README.md" Pack="true" PackagePath="\" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="SharpEngine.Core" Version="1.7.2" />
-    <PackageReference Include="System.Data.SQLite" Version="1.0.118" />
+    <PackageReference Include="SharpEngine.Core" Version="1.9.3" />
+    <PackageReference Include="System.Data.SQLite" Version="1.0.119" />
   </ItemGroup>
 </Project>
