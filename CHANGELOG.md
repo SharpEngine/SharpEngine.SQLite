@@ -7,6 +7,10 @@
 [#] Bug Fixes<br>
 [.] Others
 
+### V 1.2.1 - 24/12/2024
+[.] SharpEngine.Core : 1.9.3<br/>
+[.] System.Data.SQLite : 1.0.119
+
 ### V 1.2.0 - 28/11/2023
 [.] SharpEngine.Core : 1.7.2<br/>
 [.] Refactor with SonarCloud

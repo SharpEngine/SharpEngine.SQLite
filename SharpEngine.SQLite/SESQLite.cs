@@ -12,7 +12,7 @@ public static class SESQLite
     /// </summary>
     public static void AddVersions()
     {
-        DebugManager.Versions.Add("System.Data.SQLite", "1.0.118");
-        DebugManager.Versions.Add("SharpEngine.SQLite", "1.2.0");
+        DebugManager.Versions.Add("System.Data.SQLite", "1.0.119");
+        DebugManager.Versions.Add("SharpEngine.SQLite", "1.2.1");
     }
 }
