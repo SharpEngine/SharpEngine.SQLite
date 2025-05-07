@@ -7,6 +7,9 @@
 [#] Bug Fixes<br>
 [.] Others
 
+### V 2.0.0 - 07/05/2025
+[.] SharpEngine.Core : 2.2.0
+
 ### V 1.2.1 - 24/12/2024
 [.] SharpEngine.Core : 1.9.3<br/>
 [.] System.Data.SQLite : 1.0.119
