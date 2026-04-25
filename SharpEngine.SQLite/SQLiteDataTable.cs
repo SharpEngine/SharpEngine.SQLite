@@ -11,15 +11,15 @@ public class SQLiteDataTable<T> : IDataTable<T>
 {
     private List<T> Objects { get; }
 
-    private string DbFile { get; set; }
-    private string Version { get; set; }
+    private string DbFile { get; }
+    private string Version { get; }
 
     /// <summary>
     /// Create Data Table from SQLite
     /// </summary>
     /// <param name="dbFile">SQLite File</param>
     /// <param name="version">Version</param>
-    /// <exception cref="NotImplementedException">If use not implement type</exception>
+    /// <exception cref="NotImplementedException">If you use not implement type</exception>
     public SQLiteDataTable(string dbFile, string version = "3")
     {
         DbFile = dbFile;

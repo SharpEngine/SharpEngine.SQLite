@@ -8,6 +8,6 @@ SQLite Package for SharpEngine - C# 2D Game Engine
 
 ## Dependencies
 
-- Net8
+- Net10
 - SharpEngine.Core
 - System.Data.SQLite
